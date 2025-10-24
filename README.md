@@ -19,7 +19,7 @@ This repository contains the official CAD files for the **Stony Brook Robotics T
 ## How To Push Files
 
 1. Open terminal in the MROV-CAD folder
-2. Run: git pull
+2. Run: git lfs pull
 3. Run: git commit "commit message"
 4. Run: git push origin 'branch name'
 
