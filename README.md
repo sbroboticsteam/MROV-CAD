@@ -13,19 +13,26 @@ This repository contains the official CAD files for the **Stony Brook Robotics T
 ## How To Access
 
 1. Clone repository into your Inventor folder.
-2. Create a new project in Inventor and call it "MROV-CAD"
-3. Now you can start CADing
+2. Run "git lfs install" inside your repository
+3. Create a new project in Inventor and call it "MROV-CAD"
+4. Ask an Eboard member to add you as a collaborator on the repository
+5. Now you can start CADing
+
+## How Pull Files
+1. Open terminal in the MROV-CAD folder
+2. Run: git lfs pull
+3. Run: git pull
 
 ## How To Push Files
 
 1. Open terminal in the MROV-CAD folder
-2. Run: git lfs pull
-3. Run: git commit "commit message"
-4. Run: git push origin 'branch name'
+2. Run: git commit "commit message"
+3. Run: git push origin 'branch name'
 
 ## Collaboration Guidelines
 
 - Pull the latest version before editing or adding new files.
-- DO NOT EDIT FILES THAT SOMEONE ELSE IS WORKING ON PLEASE
+- Push your work after each CADing session
+- DO NOT EDIT FILES THAT SOMEONE ELSE IS WORKING ON PLEASE (We are not fixing CAD merge conflicts lol)
 - Coordinate with other subsystem teams when modifying assemblies.
 - Contact the project leads if you have questions about workflow.
