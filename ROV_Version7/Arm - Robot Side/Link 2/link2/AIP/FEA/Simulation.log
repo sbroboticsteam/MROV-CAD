@@ -1,28 +1,41 @@
-﻿Study Shape Generator:1 started: 1/26/2026, 4:30:36 PM
-Number of configurations: 1
-Default mesh: 185472 elements, 289960 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 1/26/2026, 4:33:06 PM
-Total time 0:02:30
-
-Study Shape Generator:1 started: 1/26/2026, 9:22:04 PM
+﻿Study Shape Generator:1 started: 3/14/2026, 3:14:27 PM
 Number of configurations: 1
 Default mesh: 183805 elements, 289786 nodes
 Reached the total number of h refinements 
-Study Shape Generator:1 finished: 1/26/2026, 9:24:39 PM
-Total time 0:02:35
+Study Shape Generator:1 finished: 3/14/2026, 3:17:04 PM
+Total time 0:02:37
 
-Study Shape Generator:1 started: 1/26/2026, 9:25:18 PM
+Study Shape Generator:1 started: 3/14/2026, 3:18:22 PM
+Number of configurations: 1
+Default mesh: 183805 elements, 289786 nodes
+Study Shape Generator:1 failed. 3/14/2026, 3:20:33 PM
+Total time 0:02:11
+
+Study Shape Generator:1 started: 3/14/2026, 3:20:43 PM
 Number of configurations: 1
 Default mesh: 183805 elements, 289786 nodes
 Reached the total number of h refinements 
-Study Shape Generator:1 finished: 1/26/2026, 9:27:21 PM
-Total time 0:02:03
+Study Shape Generator:1 finished: 3/14/2026, 3:22:53 PM
+Total time 0:02:10
 
-Study Shape Generator:1 started: 1/26/2026, 9:28:13 PM
+Study Shape Generator:1 started: 3/14/2026, 3:27:37 PM
 Number of configurations: 1
-Default mesh: 183805 elements, 289786 nodes
+Default mesh: 181933 elements, 286198 nodes
 Reached the total number of h refinements 
-Study Shape Generator:1 finished: 1/26/2026, 9:30:28 PM
-Total time 0:02:15
+Study Shape Generator:1 finished: 3/14/2026, 3:30:21 PM
+Total time 0:02:44
+
+Study Shape Generator:1 started: 3/14/2026, 3:32:18 PM
+Number of configurations: 1
+Default mesh: 181933 elements, 286198 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/14/2026, 3:34:27 PM
+Total time 0:02:09
+
+Study Shape Generator:1 started: 3/14/2026, 3:37:30 PM
+Number of configurations: 1
+Default mesh: 181933 elements, 286198 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/14/2026, 3:39:38 PM
+Total time 0:02:08
 
