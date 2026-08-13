@@ -15,8 +15,7 @@ This repository contains the official CAD files for the **Stony Brook Robotics T
 1. Clone repository into your Inventor folder.
 2. Run "git lfs install" inside your repository
 3. Create a new project in Inventor and call it "MROV-CAD"
-4. Ask an Eboard member to add you as a collaborator on the repository
-5. Now you can start CADing
+5. Now you can access the CAD in Autodesk Inventor
 
 ## How Pull Files
 1. Open terminal in the MROV-CAD folder
